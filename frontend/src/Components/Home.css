@@ -1,0 +1,10 @@
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.welcome {
+  font-size: 20px;
+  color: black;
+}

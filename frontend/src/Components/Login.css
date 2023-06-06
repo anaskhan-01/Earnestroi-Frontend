@@ -1,0 +1,17 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10rem;
+  margin-top: 0rem;
+  gap: 1rem;
+}
+
+.Login-title {
+  margin-top: 10rem;
+}
+
+.register-button {
+  margin-top: -150px;
+}
